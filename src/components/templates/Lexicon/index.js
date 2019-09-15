@@ -54,7 +54,7 @@ export default class Lexicon extends Component {
 							`${post.frontmatter.tags}`
 						}
 					/>
-					<meta property="og:description" content={post.excerpt} />
+					<meta property="og:description" content={post.frontmatter.description} />
 					<meta name="Description" content={seoDescription}></meta>
 					<meta
 						property="og:title"
