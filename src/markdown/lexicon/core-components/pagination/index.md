@@ -11,7 +11,7 @@ draft: false
 
 ## Pagination
 
-![simple pagination](/images/lexicon/Pagination.jpg)
+![simple pagination](./pagination-1.png)
 
 Use the default pagination when you need a simple pagination pattern for a page that will not change size.
 
@@ -31,7 +31,7 @@ Pagination includes several mechanisms to move between pages:
 
 ## Pagination bar
 
-![pagination bar with a dropdown for page size and the simple pagination component](/images/lexicon/PaginationBar.jpg)
+![pagination bar with a dropdown for page size and the simple pagination component](./pagination-2.png)
 
 A pagination bar is pagination with the following features:
 
@@ -43,7 +43,7 @@ Use the pagination bar when you need a complex pagination pattern that requires 
 
 Description:
 
-![pagination bar with parts descriptive with numbers for the description](/images/lexicon/PaginationBarParts.jpg)
+![pagination bar with parts descriptive with numbers for the description](./pagination-3.png)
 
 1. Entries dropdown to select the number of elements per page. You can configure the page size options.
 2. Descriptive text to clarify the dataset segment shown.
@@ -55,4 +55,4 @@ Description:
 
 ### Pagination bar mobile
 
-![pagination bar with a dropdown for page size and the simple pagination component](/images/lexicon/PaginationBarMobile.jpg)
+![pagination bar with a dropdown for page size and the simple pagination component](./pagination-4.png)
